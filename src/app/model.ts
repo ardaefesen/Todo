@@ -10,6 +10,9 @@ export class Model {
       { description: 'kahvaltı', action: true },
       { description: 'spor', action: true },
       { description: 'alışveriş', action: false },
+      { description: 'alışveriş', action: false },
+      { description: 'alışveriş', action: false },
+      { description: 'alışveriş', action: false },
   
     ];
   }
